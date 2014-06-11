@@ -8,7 +8,7 @@ Gitolite server on docker
 
 2. build it:
 	```sh
-	docker build -t yourname/gitolite .
+	docker build -t gitolite .
 	```
 
 ## Run
