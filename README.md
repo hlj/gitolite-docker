@@ -1,5 +1,4 @@
 #gitolite-docker
-===============
 
 Gitolite server on docker
 
@@ -28,5 +27,5 @@ The path `/opt/git` have to match the folder name in `gitolite` script.
 	./gitolite start
 	```
 
-##More Detail
+##More details
 Please read this [article](http://betacz.com/2014/05/29/docker-gitolite/). It was written in Chinese.
