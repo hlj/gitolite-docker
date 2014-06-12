@@ -1,5 +1,5 @@
 
-#[Deprecated] move to [there](https://github.com/hlj/docker-gitolite}
+#[Deprecated] move to [there](https://github.com/hlj/docker-gitolite)
 
 #gitolite-docker
 
