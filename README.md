@@ -1,6 +1,10 @@
+
+#[Deprecated] move to [there](https://github.com/hlj/docker-gitolite}
+
 #gitolite-docker
 
 Gitolite server on docker
+
 
 ## Build
 
